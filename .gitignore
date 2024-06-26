@@ -1,0 +1,10 @@
+*.exe
+*.dll
+.vs
+bin/
+obj/
+/ExcelReader.Console/obj/
+/ExcelReader.Console/bin/
+/ExcelReader.Core/obj/
+/ExcelReader.Core/bin/
+.idea/
